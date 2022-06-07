@@ -12,6 +12,7 @@
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 > <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 ### 담당 기능
+> ###### 총 5명의 팀원
 > <details>
 > <summary>1. 1:1 문의 게시판</summary>
 > &emsp;&emsp;<b style="color:purple;">구현 기능</b> : 문의 등록, 문의 내역 조회, 문의 상세 조회, 문의 삭제
