@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=A97155&text=1DU1DU&height=60&fontSize=40&fontAlign=9)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=A97155&text=1DU1DU&height=60&fontSize=40&fontAlign=9&fontAlignY=60)
 ##### KH Semi Project
 #### :coffee: 코로나와 카페 음료의 가격 인상에 따라 등장한 홈 카페 트렌드에 발맞춰 고객 취향에 맞는 원두를 소개하고,
 #### &emsp;&nbsp;&nbsp;원두 정기 구독을 제공하는 쇼핑몰
