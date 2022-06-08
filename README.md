@@ -21,5 +21,3 @@
 > <summary>2. 리뷰 게시판</summary>
 > &emsp;&emsp;<b style="color:purple;">구현 기능</b> : 리뷰 등록, 리뷰 내역 조회, 리뷰 상세 조회, 리뷰 수정, 리뷰 삭제
 > </details>
-<br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjeeSong%2F1DU1DU&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
